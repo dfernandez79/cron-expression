@@ -9,12 +9,12 @@ Test
 
 1. Install mocha
 
-       npm install -g mocha
+        npm install -g mocha
 
 2. Download the required packages
 
-       npm install
+        npm install
 
 3. Run the tests
 
-       mocha
+        mocha
